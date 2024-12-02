@@ -4,8 +4,8 @@
 **Clone the Repository:**  
 Clone this repository to your local machine:  
 ```bash
-git clone https://github.com/yourusername/nifty50-option-trading.git
-cd nifty50-option-trading
+git clone https://github.com/yourusername/Nifty-50-Option-Trading.git
+cd Nifty-50-Option-Trading
 ```
 
 **Prepare the Dataset:**  
